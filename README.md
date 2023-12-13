@@ -11,6 +11,8 @@ I'm a Data Scientist passionate about deriving insights from data and building s
 - **Machine Learning:** Regression, Classification, Clustering
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborns
 - **Database:** SQL
+<br><br>
+  
   
 <div align="left">
   <a href="https://www.instagram.com/harsh_chitaliya/" target="_blank">
@@ -34,7 +36,7 @@ I'm a Data Scientist passionate about deriving insights from data and building s
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Akshar062/Akshar062/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
