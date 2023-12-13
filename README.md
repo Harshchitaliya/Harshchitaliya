@@ -1,16 +1,46 @@
-### Hi there 👋
+# Hi there, I'm Harsh Chitaliya 👋
 
-<!--
-**Harshchitaliya/Harshchitaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist passionate about deriving insights from data and building solutions. 
 
-Here are some ideas to get you started:
+🔭 **Currently working on:** Improving machine learning models for predictive analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Learning:** Exploring advanced machine learning architectures and cloud technologies.
+
+## Skills
+
+- **Machine Learning:** Regression, Classification, Clustering
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborns
+- **Database:** SQL
+  
+<div align="left">
+  <a href="https://www.instagram.com/harsh_chitaliya/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="discordapp.com/users/1135894623932387350" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="chitaliyaharsh09@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-chitaliya-68512b28b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/qr/G2SYKT53UBUVP1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Akshar062/Akshar062/output/snake.svg" alt="Snake animation" />
+
+###
+
+## Let's Collaborate
+I'm always open to collaborating on exciting projects! Feel free to reach out for any discussions or collaborations.
+
+
+
+
