@@ -12,6 +12,18 @@ I'm a Data Scientist passionate about deriving insights from data and building s
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborns
 - **Database:** SQL
 <br><br>
+
+
+###
+<!-- GitHub Stats -->
+![Akshar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshchitaliya&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshchitaliya&layout=compact&theme=radical)
+
+
+
+###
   
   
 <div align="left">
