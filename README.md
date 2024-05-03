@@ -55,7 +55,7 @@ I'm a Data Scientist passionate about deriving insights from data and building s
 ## Let's Collaborate
 I'm always open to collaborating on exciting projects! Feel free to reach out for any discussions or collaborations.
 
-I'm Gay
+
 
 
 
