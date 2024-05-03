@@ -11,6 +11,7 @@ I'm a Data Scientist passionate about deriving insights from data and building s
 - **Machine Learning:** Regression, Classification, Clustering
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborns
 - **Database:** SQL
+- **Data Scraping:** Python
 <br><br>
 
 
