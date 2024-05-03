@@ -16,7 +16,7 @@ I'm a Data Scientist passionate about deriving insights from data and building s
 
 ###
 <!-- GitHub Stats -->
-![Akshar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshchitaliya&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshchitaliya&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshchitaliya&layout=compact&theme=radical)
@@ -54,6 +54,8 @@ I'm a Data Scientist passionate about deriving insights from data and building s
 
 ## Let's Collaborate
 I'm always open to collaborating on exciting projects! Feel free to reach out for any discussions or collaborations.
+
+I'm Gay
 
 
 
